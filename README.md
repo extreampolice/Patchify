@@ -1,7 +1,7 @@
 # Patchify
 Patchify is an Experimental Project Wingman Mod Merger made using UAssetAPI.
 
-This Project was 100% written by AI(Asian Intelligence).
+This Project was written 100% by AI(Asian Intelligence).
 
 ***This project is NOT feature complete. Additional features such as Plane Filtering, Custom Patch Generation and GUI Implementation are in plan***
 
