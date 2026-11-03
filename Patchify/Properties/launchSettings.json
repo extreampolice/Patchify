@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Patchify": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\\\SteamLibrary\\\\steamapps\\\\common\\\\Project Wingman\\\\ProjectWingman\\\\Content\\\\Paks\\\\pakchunk0-WindowsNoEditor.pak",
+      "environmentVariables": {
+        "PATH": "$(SolutionDir)\\Dependencies;%PATH%"
+      },
+      "hotReloadEnabled": true
+    }
+  }
+}
